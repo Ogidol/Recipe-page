@@ -25,7 +25,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://github.com/Ogidol/QR-Code-Project](#)
+- Solution URL: [https://github.com/Ogidol/Recipe-page](#)
 - Live Site URL: [https://recipe-page-x9gv.vercel.app/](#)
 
 ## My Process
